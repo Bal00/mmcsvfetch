@@ -10,6 +10,7 @@ var dateformats = [
 {'locale': 'en_ZA', 'dateformat': 'YYYY/MM/DD'},
 {'locale': 'en_GB', 'dateformat': 'DD/MM/YY'},
 {'locale': 'en_US', 'dateformat': 'M/D/YY'},
+{'locale': 'en_PL', 'dateformat': 'DD/MM/YY'},
 {'locale': 'fr_CA', 'dateformat': 'YY-MM-DD'},
 {'locale': 'fr_FR', 'dateformat': 'DD/MM/YY'},
 {'locale': 'ja_JP', 'dateformat': 'YY/MM/DD'},

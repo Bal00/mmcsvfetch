@@ -6,6 +6,7 @@ var dateformats = [
 {'locale': 'en_GB', 'dateformat': 'DD/MM/YY'},
 {'locale': 'en_NZ', 'dateformat': 'D/MM/YY'},
 {'locale': 'en_PL', 'dateformat': 'DD/MM/YY'},
+{'locale': 'en_SE', 'dateformat': 'YYYY-MM-DD'},
 {'locale': 'en_US', 'dateformat': 'MM/DD/YY'},
 {'locale': 'en_ZA', 'dateformat': 'YYYY/MM/DD'},
 {'locale': 'es_MX', 'dateformat': 'D/MM/YY'},
